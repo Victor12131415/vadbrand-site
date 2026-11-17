@@ -1,1 +1,13 @@
-{"changes":[]}
+{
+  "changes": [
+    {
+      "id": "V-13",
+      "type": "css",
+      "path": "changes/V-13-20261117-184713.css",
+      "sha": "288c6979c9b2d8778c24409cbea7984eae095543",
+      "staged": true,
+      "live": false
+    }
+  ],
+  "updated": "2026-11-17T15:47:14.423Z"
+}
